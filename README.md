@@ -8,5 +8,4 @@ This is a Python program using the `OpenCV` Python module that captures your vid
 
   ```
   pip3 install opencv-python
-  
   ```
